@@ -1,9 +1,5 @@
-![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0a82748f1e823282bd0c7cee804e2f23a51fcf68/assets/Bottom_up.svg)
-<h1 align="center">Hi 👋, I'm TUSHAR JAISWAL</h1>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LL08tGGFvScv9-qhBmhHUIYzxG7s7oGkebzveqjfkQo/rs:fit:480:360:1/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy9naXBoeS5naWY.gif">
 <h3 align="center">A passionate Data analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharjaiswal18&label=Profile%20views&color=0e75b6&style=flat" alt="tusharjaiswal18" /> </p>
 
 - 🌱 I’m currently learning **WEB DEVLOPMENT**
 
